@@ -1,6 +1,6 @@
-Crystals Collector Game
+# Crystals Collector Game  
 
-This is a guessing game using numbers where the player will guess with numbers.
+## This is a guessing game using numbers where the player will guess with numbers.
 
 - There will be four crystals displayed as buttons on the page.
 - The player will be shown a random number at the start of the game.
@@ -12,3 +12,5 @@ This is a guessing game using numbers where the player will guess with numbers.
 - When the game is restarted, the player will be shown a new random number, all the crystals will now have 4 different hidden values, and the player's total score is reset to 0.
 
 Link to the game: https://dionne03.github.io/crystal-game/
+
+## I used HTML, CSS, JAVASCRIPT & JQUERY
