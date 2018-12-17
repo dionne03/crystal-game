@@ -25,3 +25,20 @@ body{
     background: #2194f1;
     color: #fff;
 }
+
+.githubLink{
+    background: #2d2d2d;
+    height: 40px;
+    width: 90px;
+    border-radius: 5px;
+    padding-top: 10px;
+    margin-top: -25px;
+    margin-left: 30px;
+    box-shadow:         1px 1px 10px 0px rgba(50, 50, 50, 0.75);
+}
+
+    .githubLink a{
+        padding: 16px 15px;
+        color:#fff;
+       
+    }
